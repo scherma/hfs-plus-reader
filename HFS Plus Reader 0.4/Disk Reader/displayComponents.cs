@@ -49,7 +49,7 @@ namespace Disk_Reader
         public string contentDisplay;
         public string help_about =  "Disk Reader" + System.Environment.NewLine +
                                     "Version: 0.4.2" + System.Environment.NewLine +
-                                    "© Joash Lewis" + System.Environment.NewLine + System.Environment.NewLine +
+                                    "© github.com/scherma" + System.Environment.NewLine + System.Environment.NewLine +
                                     "This copy is for beta testing purposes only.";
 
         public displayComponents()
